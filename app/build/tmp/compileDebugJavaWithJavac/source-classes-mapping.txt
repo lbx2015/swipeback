@@ -1,0 +1,38 @@
+com/zzw/swipeback/MainActivity.java
+ com.zzw.swipeback.MainActivity
+com/zzw/swipeback/ui/dashboard/DashboardFragment.java
+ com.zzw.swipeback.ui.dashboard.DashboardFragment
+ com.zzw.swipeback.ui.dashboard.DashboardFragment$1
+com/zzw/swipeback/ui/notifications/NotificationsFragment.java
+ com.zzw.swipeback.ui.notifications.NotificationsFragment
+ com.zzw.swipeback.ui.notifications.NotificationsFragment$1
+com/zzw/swipeback/swipeback/SlideActivityCallback.java
+ com.zzw.swipeback.swipeback.SlideActivityCallback
+com/zzw/swipeback/swipeback/SwipeBackHelper.java
+ com.zzw.swipeback.swipeback.SwipeBackHelper
+ com.zzw.swipeback.swipeback.SwipeBackHelper$1
+ com.zzw.swipeback.swipeback.SwipeBackHelper$2
+ com.zzw.swipeback.swipeback.SwipeBackHelper$3
+ com.zzw.swipeback.swipeback.SwipeBackHelper$4
+ com.zzw.swipeback.swipeback.SwipeBackHelper$OnSlideFinishListener
+ com.zzw.swipeback.swipeback.SwipeBackHelper$SlideBackManager
+ com.zzw.swipeback.swipeback.SwipeBackHelper$ViewManager
+com/zzw/swipeback/swipeback/TemporaryViewGroup.java
+ com.zzw.swipeback.swipeback.TemporaryViewGroup
+com/zzw/swipeback/ui/home/HomeFragment.java
+ com.zzw.swipeback.ui.home.HomeFragment
+ com.zzw.swipeback.ui.home.HomeFragment$1
+com/zzw/swipeback/BuildConfig.java
+ com.zzw.swipeback.BuildConfig
+com/zzw/swipeback/ui/notifications/NotificationsViewModel.java
+ com.zzw.swipeback.ui.notifications.NotificationsViewModel
+com/zzw/swipeback/swipeback/SwipeBackActivity.java
+ com.zzw.swipeback.swipeback.SwipeBackActivity
+ com.zzw.swipeback.swipeback.SwipeBackActivity$1
+ com.zzw.swipeback.swipeback.SwipeBackActivity$SlideActivityAdapter
+com/zzw/swipeback/swipeback/ActivityLifecycleHelper.java
+ com.zzw.swipeback.swipeback.ActivityLifecycleHelper
+com/zzw/swipeback/ui/dashboard/DashboardViewModel.java
+ com.zzw.swipeback.ui.dashboard.DashboardViewModel
+com/zzw/swipeback/ui/home/HomeViewModel.java
+ com.zzw.swipeback.ui.home.HomeViewModel
