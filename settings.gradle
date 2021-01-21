@@ -1,2 +1,3 @@
+include ':myswipbacklibrary'
 include ':app'
 rootProject.name = "swipeback"
