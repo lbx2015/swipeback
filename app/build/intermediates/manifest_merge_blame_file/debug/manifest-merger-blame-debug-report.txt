@@ -41,20 +41,17 @@
 26-->D:\projects\swipeback2\app\src\main\AndroidManifest.xml:14:13-41
 27            android:label="@string/app_name" >
 27-->D:\projects\swipeback2\app\src\main\AndroidManifest.xml:15:13-45
-28            <intent-filter>
-28-->D:\projects\swipeback2\app\src\main\AndroidManifest.xml:16:13-20:29
-29                <action android:name="android.intent.action.MAIN" />
-29-->D:\projects\swipeback2\app\src\main\AndroidManifest.xml:17:17-69
-29-->D:\projects\swipeback2\app\src\main\AndroidManifest.xml:17:25-66
-30
-31                <category android:name="android.intent.category.LAUNCHER" />
-31-->D:\projects\swipeback2\app\src\main\AndroidManifest.xml:19:17-77
-31-->D:\projects\swipeback2\app\src\main\AndroidManifest.xml:19:27-74
-32            </intent-filter>
-33        </activity>
-34        <activity android:name="com.zzw.swipeback.SwipeActivity" />
-34-->D:\projects\swipeback2\app\src\main\AndroidManifest.xml:22:9-50
-34-->D:\projects\swipeback2\app\src\main\AndroidManifest.xml:22:19-48
-35    </application>
-36
-37</manifest>
+28
+29            <!-- <intent-filter> -->
+30            <!-- <action android:name="android.intent.action.MAIN" /> -->
+31
+32
+33            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+34            <!-- </intent-filter> -->
+35        </activity>
+36        <activity android:name="com.zzw.swipeback.SwipeActivity" />
+36-->D:\projects\swipeback2\app\src\main\AndroidManifest.xml:22:9-50
+36-->D:\projects\swipeback2\app\src\main\AndroidManifest.xml:22:19-48
+37    </application>
+38
+39</manifest>

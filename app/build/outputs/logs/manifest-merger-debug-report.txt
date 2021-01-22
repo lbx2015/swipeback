@@ -94,16 +94,6 @@ ADDED from D:\projects\swipeback2\app\src\main\AndroidManifest.xml:13:9-21:20
 		ADDED from D:\projects\swipeback2\app\src\main\AndroidManifest.xml:15:13-45
 	android:name
 		ADDED from D:\projects\swipeback2\app\src\main\AndroidManifest.xml:14:13-41
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\projects\swipeback2\app\src\main\AndroidManifest.xml:16:13-20:29
-action#android.intent.action.MAIN
-ADDED from D:\projects\swipeback2\app\src\main\AndroidManifest.xml:17:17-69
-	android:name
-		ADDED from D:\projects\swipeback2\app\src\main\AndroidManifest.xml:17:25-66
-category#android.intent.category.LAUNCHER
-ADDED from D:\projects\swipeback2\app\src\main\AndroidManifest.xml:19:17-77
-	android:name
-		ADDED from D:\projects\swipeback2\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.zzw.swipeback.SwipeActivity
 ADDED from D:\projects\swipeback2\app\src\main\AndroidManifest.xml:22:9-50
 	android:name
